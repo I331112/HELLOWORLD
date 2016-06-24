@@ -1,0 +1,10 @@
+{
+"name":"hanacode",
+"filenames":[{"filename":"sap\/try\/.project","sha1value":"1437133298.1256288480.2710227996.3904036986.2228503476","timest":"2016-06-24 05:04:37.000 UTC","baseversion":"1"},
+{"filename":"sap\/try\/.settings\/.jsdtscope","sha1value":"1535158705.955807574.4005046736.3056293029.2082259169","timest":"2016-06-24 05:04:37.000 UTC","baseversion":"1"},
+{"filename":"sap\/try\/.xsaccess","sha1value":"3540553489.2143530538.1335923911.922054028.837836545","timest":"2016-06-24 05:04:37.000 UTC","baseversion":"1"},
+{"filename":"sap\/try\/.xsapp","sha1value":"3661210606.1584089869.844480495.2506102928.2950170377","timest":"2016-06-24 05:04:37.000 UTC","baseversion":"1"},
+{"filename":"sap\/try\/SYS_TRY.hdbschema","sha1value":"3145578438.1771536319.2795577861.1000403611.10804747","timest":"2016-06-24 05:04:37.000 UTC","baseversion":"1"},
+{"filename":"sap\/try\/server\/readme","sha1value":"3661210606.1584089869.844480495.2506102928.2950170377","timest":"2016-06-24 05:04:37.000 UTC","baseversion":"1"}],
+"conflicts":[]
+}
