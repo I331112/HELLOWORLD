@@ -20,10 +20,10 @@
 
 [DU]
 du_source_dir=.
-du_workspace=HCO_TRAFFIC_FND
-du_delivery_unit=HCO_TRAFFIC_FND
+du_workspace=hanacode
+du_delivery_unit=HANACODE
 du_vendor=sap.com
-du_packages=sap.traffic.foundation
+du_packages=sap.try
 du_responsible=SAP
 du_version=1.0.0
 du_description=TRAFFIC_FND_HANA 1
