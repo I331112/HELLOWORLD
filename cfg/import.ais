@@ -1,0 +1,6 @@
+imports dslVersion:"1.0", {
+	targetRootDir id:"default", {
+		artifactFile "com.sap.traffic:SAP_ITM_AFL:sar:1.0.2"
+	
+	}
+}
